@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 // functionality, Deposit withdraw issue interest
 pragma solidity ^0.8.0;
 interface IERC20 {
